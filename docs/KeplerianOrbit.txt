@@ -1,1 +1,8 @@
 Keplerian Orbit
+Result of research, how to get to orbit, energy required to get out atmosphere and get orbit into object eliptic direction
+first keplerian law 
+third keplerian law
+energy conservation
+gravity
+infinit course
+
